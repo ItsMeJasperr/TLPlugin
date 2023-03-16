@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.jjwngamer</groupId>
-    <artifactId>TLPluginSnowville</artifactId>
+    <artifactId>TLPlugin</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>TLPluginSnowville</name>
+    <name>TLPlugin</name>
 
     <description>Made by ItsMeJasperr#1348</description>
     <properties>

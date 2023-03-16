@@ -1,8 +1,8 @@
-package com.jjwngamer.tlpluginsnowville;
+package com.jjwngamer.tlplugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class TLPluginSnowville extends JavaPlugin {
+public final class TLPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {

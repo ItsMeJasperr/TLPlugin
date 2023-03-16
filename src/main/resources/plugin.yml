@@ -1,7 +1,8 @@
-name: TLPluginSnowville
+name: TLPlugin
 version: '${project.version}'
 main: com.jjwngamer.tlpluginsnowville.TLPluginSnowville
 authors: [ ItsMeJasperr ]
 description: Made by ItsMeJasperr#1348
 commands:
   tl:
+    description: Command to give your coordinates fast!

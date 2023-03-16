@@ -1,4 +1,4 @@
-package com.jjwngamer.tlpluginsnowville;
+package com.jjwngamer.tlplugin;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
