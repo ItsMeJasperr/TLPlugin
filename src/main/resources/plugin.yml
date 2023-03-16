@@ -1,0 +1,7 @@
+name: TLPluginSnowville
+version: '${project.version}'
+main: com.jjwngamer.tlpluginsnowville.TLPluginSnowville
+authors: [ ItsMeJasperr ]
+description: Made by ItsMeJasperr#1348
+commands:
+  tl:
