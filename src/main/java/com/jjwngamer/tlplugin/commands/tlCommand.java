@@ -1,5 +1,6 @@
-package com.jjwngamer.tlplugin;
+package com.jjwngamer.tlplugin.commands;
 
+import com.jjwngamer.tlplugin.utils.CC;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
@@ -14,7 +15,7 @@ public class tlCommand implements CommandExecutor {
         double yLoc = p.getLocation().getY();
         double zLoc = p.getLocation().getZ();
 
-        p.chat(ChatColor.WHITE + "Locatie: " + Math.round(xLoc) + ", " + Math.round(yLoc) + ", " + Math.round(zLoc));
+        p.chat(CC.color("&fLocatie: " + Math.round(xLoc) + ", " + Math.round(yLoc) + ", " + Math.round(zLoc)));
         return false;
     }
 }

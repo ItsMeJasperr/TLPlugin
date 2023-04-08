@@ -1,6 +1,6 @@
 name: TLPlugin
 version: '${project.version}'
-main: com.jjwngamer.tlpluginsnowville.TLPluginSnowville
+main: com.jjwngamer.tlplugin.TLPlugin
 authors: [ ItsMeJasperr ]
 description: Made by ItsMeJasperr#1348
 commands:

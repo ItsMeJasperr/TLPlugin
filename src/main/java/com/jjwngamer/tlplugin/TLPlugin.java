@@ -1,5 +1,6 @@
 package com.jjwngamer.tlplugin;
 
+import com.jjwngamer.tlplugin.commands.tlCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class TLPlugin extends JavaPlugin {
